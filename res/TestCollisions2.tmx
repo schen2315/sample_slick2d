@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.2" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="CastleExample" tilewidth="32" tileheight="32" tilecount="4761" columns="69">
+  <image source="CastleExample.png" width="2239" height="2235"/>
+ </tileset>
+ <tileset firstgid="4762" source="TiledSet3.tsx"/>
+ <layer name="Bottom Layer" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2TQQqCQBhGB5ps2R0y1207QOeohALtJh2hdSWUaPsO4RG6QlEdoE+cHycJWrRohO/BY9SF/M8ZlSKEEEIIIYQQQn5joZVawqJT3Y+7n91477pE2XCAR10/a2OHNEx1vS8hvHiVdoc8E12hnH1mzlNo7UsCB7CPWX2sQxhAv4drGBhdQBrm5vsn5lxJSwonjY4Is8eOdWwx1w7uTYP02B3rRkeG2XPHOoRmj91RoCPCGsOV/v4u15COEf7tDGsOTy3suGLmGzyj4471AZ8t7CCEEEIIIYQQQggh/+MF2hPS+hAnAAA=
+  </data>
+ </layer>
+ <layer name="Top Layer" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3Pyw2CUBhE4X+tLoEi1EqASoBKgEp8FeKrEKUIZ+n+Jt6MOV8y+zMRAAAAwG/UZUSjtWXukjSd+nttMP8xqn/SZvMfB/UftZP5j6v6b9rd/MdL/W9tMf+xqiLW2qbKXZJmq/6dtjf/Uau/0VrzH536e20w/zGqf9Jm8x/fzkXEpchdke6hD88/+AEAAAAAAACk+ADLcKKvECcAAA==
+  </data>
+ </layer>
+</map>
