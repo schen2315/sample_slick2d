@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" source="../../../../Downloads/TileSet2.tsx"/>
+ <tileset firstgid="901" source="../../../../Downloads/TiledSet3.tsx"/>
+ <layer name="Tile Layer 1" width="10" height="10" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA/NnYGDwH8WDBgMA65PXI5ABAAA=
+  </data>
+ </layer>
+ <layer name="Tile Layer 4" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgoBy8ZiZOHTcLFSwb5gAACwyqkJABAAA=
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA4XQXQqCQBSG4QO5jepKqKxlBPbjHrpMq31Y2hKq+4J2UC6gNZgrqXyhkQ4y0gcPDHM+hxlFvjm3RC41VzyMKj1HpI8BPAwxwgqu8+v5rCeYYoY5AiQYq96SdYjInLHGRs2rxOxtsTNnpNhberYc6B1x+tO/Mb8jU72ctz9RqH+QM1+gUL0X8zc+qmdLm2866DbcpQR4kE+HkAEAAA==
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGB7gBysDw08C+BcQS7AxMEgSwFJsA+cPAOLRgeOQAQAA
+  </data>
+ </layer>
+</map>
